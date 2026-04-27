@@ -1845,7 +1845,7 @@ section.cover .inner .foot .prime-title {}
     color: var(--text-primary);
     font-size: calc(var(--body-text-size));
     font-weight: 600;
-    line-height: 155%;
+    line-height: 50%;
 }
 
 /* Agenda Details */
