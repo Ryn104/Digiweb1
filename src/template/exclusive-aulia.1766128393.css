@@ -1295,6 +1295,10 @@ section.cover .inner .foot .prime-title {}
     font-family: var(--heading-family);
     font-size: calc(var(--heading-size));
     margin: auto;
+    border-top: 3px solid #f5efe6e8;
+    height: 10px;
+    width: 100%;
+
 }
 
 @media (min-width: 560px) and (max-width: 960px) {
