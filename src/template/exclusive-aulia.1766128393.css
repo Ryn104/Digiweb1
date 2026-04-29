@@ -665,7 +665,7 @@ section.top-cover .inner .details::before {
 }
 
 .top-cover .head-tc .top-cover-title {
-    font-size: calc(var(--heading-size) + 16px);
+    font-size: calc(var(--heading-size) + 10px);
 }
 
 section.top-cover .inner .details p {
